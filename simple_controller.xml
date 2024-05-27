@@ -1,0 +1,9 @@
+<class_libraries>
+    <library path="simple_controller">
+        <class type="simple_controller::SimpleController" base_class_type="nav2_core::Controller">
+            <description>
+                simple_controller
+            </description>
+        </class>
+    </library>
+</class_libraries>
